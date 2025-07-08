@@ -34,16 +34,16 @@ Add guidelines here for workshop
 <!-- Sequencing types -->
 ## Sequencing types
 
-|Sequencing name | Type | Usage/Pros  | Cons | Case study reference| 
-|----------|----------|----------|----------|-------------|
-| Sanger sequencing (1st generation)|  | can target specific genes | | |
-| WGS | Next generation sequencing (Illumina short read) | sequencing of the whole genome with short reads| | |
-| GBS or RADseq | Next generation sequencing (Illumina short read) | sequencing a random but consistient subset of the genome | | |
-| Poolseq | Next generation sequencing (Illumina short read) | grouping of individuals into pools before sequencing | | |
-| Oxford Nanopore (ONT) | Long read sequencing (3rd generation)   |  | | | 
-| PacBio HiFi| Long read sequencing (3rd generation) |  |  | |
-| Methylseq or WGBS | Next generation sequencing (Illumina short read) |  |  | |
-| HiC | Next generation sequencing (Illumina short read) |  | | |
+|Sequencing name | Type | Usage | Pros  | Cons | Case study reference| 
+|----------|----------|-----|-----|-------------|
+| Sanger sequencing (1st generation)|  | can target specific genes | | ||
+| Whole genome sequencing (WGS) | Next generation sequencing (Illumina short read) | sequencing of the whole genome with short reads| | ||
+| Reduced representation sequencing (GBS or RADseq) | Next generation sequencing (Illumina short read) | sequencing a random but consistient subset of the genome | Cheaper than WGS| ||
+| Poolseq | Next generation sequencing (Illumina short read) | grouping of individuals into pools before sequencing | | ||
+| Oxford Nanopore (ONT) | Long read sequencing (3rd generation)   |  | | | |
+| PacBio HiFi| Long read sequencing (3rd generation) |  |  | ||
+| Methylseq or WGBS | Next generation sequencing (Illumina short read) |  |  | ||
+| HiC | Next generation sequencing (Illumina short read) |  | | ||
 
 <!-- General Bioinformatics Workflow Chart -->
 ## General Bioinformatics Workflow Chart
