@@ -28,14 +28,16 @@ Link to slides: https://docs.google.com/presentation/d/1pkogGauGPGoacsThDY8cLQAx
 <!-- Sequencing types -->
 ## Sequencing types
 
-|Sequencing type | Pros  | Cons | Case study reference| 
+|Sequencing type | Usage/Pros  | Cons | Case study reference| 
 |----------|----------|----------|-------------|
 | Sanger sequencing (1st generation) | can target specific genes | | |
-| Next generation sequencing (Illumina short read) | | | |
-| Long read sequnecing (3rd generation) (Nanopore)  |  | | | 
-| Long read sequnecing (PacBio HiFi) |  |  | |
-|  |  | | |
-|  |  |  | |
+| WGS - Next generation sequencing (Illumina short read) | sequencing of the whole genome with short reads| | |
+| GBS or RADseq - Next generation sequencing (Illumina short read) | sequencing a random but consistient subset of the genome | | |
+| Poolseq - Next generation sequencing (Illumina short read) | grouping of individuals into pools before sequencing | | |
+| Long read sequencing (3rd generation) (Nanopore)  |  | | | 
+| Long read sequencing (PacBio HiFi) |  |  | |
+| Methylseq or WGBS - Next generation sequencing (Illumina short read) |  |  | |
+| HiC - Next generation sequencing (Illumina short read) | L | | |
 
 <!-- General Bioinformatics Workflow Chart -->
 ## General Bioinformatics Workflow Chart
