@@ -40,7 +40,7 @@ Add guidelines here for workshop
 | Whole genome sequencing (WGS) | Next generation sequencing (Illumina short read) | sequencing of the whole genome with short reads| | | |
 | Reduced representation sequencing (GBS or RADseq) | Next generation sequencing (Illumina short read) | sequencing a random but consistient subset of the genome | Cheaper than WGS| | |
 | Poolseq | Next generation sequencing (Illumina short read) | grouping of individuals into pools before sequencing | | | |
-| Oxford Nanopore (ONT)| Long read sequencing (3rd generation)  | Chromosome level genome assemblies | Cheaper than HiFi,  |  | Ref | 
+| Oxford Nanopore (ONT)| Long read sequencing (3rd generation)  | Chromosome level genome assemblies | Cheaper than HiFi, Long reads allow for better assemblies | Higher error rate than HiFi and Illumina | Ref | 
 | PacBio HiFi| Long read sequencing (3rd generation) | Chromosome level genome assemblies  |  | | |
 | Methylseq or WGBS | Next generation sequencing (Illumina short read) | Methylation sequencing |  | | |
 | HiC | Next generation sequencing (Illumina short read) | 3D DNA structure to aid in genome assemblies | | | | 
