@@ -36,14 +36,14 @@ Add guidelines here for workshop
 
 |Sequencing name | Type | Usage | Pros  | Cons | Case study reference| 
 |----------|----------|-----|-----|-------------|
-| Sanger sequencing (1st generation)|  | can target specific genes | | ||
-| Whole genome sequencing (WGS) | Next generation sequencing (Illumina short read) | sequencing of the whole genome with short reads| | ||
-| Reduced representation sequencing (GBS or RADseq) | Next generation sequencing (Illumina short read) | sequencing a random but consistient subset of the genome | Cheaper than WGS| ||
-| Poolseq | Next generation sequencing (Illumina short read) | grouping of individuals into pools before sequencing | | ||
-| Oxford Nanopore (ONT) | Long read sequencing (3rd generation)   |  | | | | |
-| PacBio HiFi| Long read sequencing (3rd generation) |  |  | || |
-| Methylseq or WGBS | Next generation sequencing (Illumina short read) |  |  | || |
-| HiC | Next generation sequencing (Illumina short read) |  | | || |
+| Sanger sequencing (1st generation)|  | can target specific genes | | | | 
+| Whole genome sequencing (WGS) | Next generation sequencing (Illumina short read) | sequencing of the whole genome with short reads| | | |
+| Reduced representation sequencing (GBS or RADseq) | Next generation sequencing (Illumina short read) | sequencing a random but consistient subset of the genome | Cheaper than WGS| | |
+| Poolseq | Next generation sequencing (Illumina short read) | grouping of individuals into pools before sequencing | | | |
+| Oxford Nanopore (ONT)| Long read sequencing (3rd generation)  | Chromosome level genome assemblies | Cheaper than HiFi,  |  | Ref | 
+| PacBio HiFi| Long read sequencing (3rd generation) | Chromosome level genome assemblies  |  | | |
+| Methylseq or WGBS | Next generation sequencing (Illumina short read) | Methylation sequencing |  | | |
+| HiC | Next generation sequencing (Illumina short read) | 3D DNA structure to aid in genome assemblies | | | | 
 
 <!-- General Bioinformatics Workflow Chart -->
 ## General Bioinformatics Workflow Chart
