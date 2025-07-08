@@ -18,11 +18,11 @@
 
 <!-- Intro to bioinformatics -->
 ## Intro to bioinformatics
-Learning Objectives:\
+### Learning Objectives:
 By the end of this workshop you should be able to:
-- Describe the different types of sequnecing that exist \
-- Explain the pros and cons of these types of sequencing \
-- Understand what would be the best types of sequencing for a given project objective \
+- Describe the different types of sequnecing that exist 
+- Explain the pros and cons of these types of sequencing 
+- Understand what would be the best types of sequencing for a given project objective 
 
 Link to slides: https://docs.google.com/presentation/d/1pkogGauGPGoacsThDY8cLQAxlyZ_pBqjZNjdsnEsbio/edit?usp=sharing \
 
