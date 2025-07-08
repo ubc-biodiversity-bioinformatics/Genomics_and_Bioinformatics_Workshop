@@ -6,6 +6,7 @@
     <li>
       <a href="#intro-to-bioinformatics">Intro to bioinformatics</a>
       <ul>
+        <li><a href="#community-guidelines">Community guidelines</a></li>
         <li><a href="#sequencing-types">Sequencing types</a></li>
         <li><a href="#General-bioinformatics-workflow-chart">General Bioinformatics Workflow Chart</a></li>
       </ul>
@@ -24,6 +25,10 @@ By the end of this workshop you should be able to:
 - Understand what would be the best types of sequencing for a given project objective \
 
 Link to slides: https://docs.google.com/presentation/d/1pkogGauGPGoacsThDY8cLQAxlyZ_pBqjZNjdsnEsbio/edit?usp=sharing \
+
+<!-- Community guidelines -->
+## Community guidelines
+
 
 <!-- Sequencing types -->
 ## Sequencing types
