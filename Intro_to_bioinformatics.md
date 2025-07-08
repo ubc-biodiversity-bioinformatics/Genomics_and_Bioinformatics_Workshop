@@ -28,6 +28,7 @@ Link to slides: https://docs.google.com/presentation/d/1pkogGauGPGoacsThDY8cLQAx
 
 <!-- Community guidelines -->
 ## Community guidelines
+Add guidelines here for workshop
 
 
 <!-- Sequencing types -->
