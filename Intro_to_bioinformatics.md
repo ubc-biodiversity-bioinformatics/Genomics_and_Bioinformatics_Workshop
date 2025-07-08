@@ -38,7 +38,7 @@ Add guidelines here for workshop
 |----------------|------|-------|------|------|---------------------|
 | Sanger sequencing (1st generation)|  | can target specific genes | | | | 
 | DNA Barcoding | PCR or  Next generation sequencing (Illumina short read) | identify species in a sample of mixed species based on a previously compiled database of barcodes| | | | 
-| Microsatellites or ribosomal, plastid or mitochondial markers (rbcL, matK, ITS, trnH-psbA, and ycf1) | PCR  | identify species in a sample of mixed species or low resolution population comparisons | | | | 
+| Microsatellites or ribosomal, plastid or mitochondial markers (rbcL, matK, ITS, trnH-psbA, and ycf1) | PCR?  | identify species in a sample of mixed species or low resolution population comparisons | | | | 
 | Whole genome sequencing (WGS) | Next generation sequencing (Illumina short read) | sequencing of the whole genome with short reads | | | |
 | Reduced representation sequencing (GBS or RADseq) | Next generation sequencing (Illumina short read) | sequencing a random but consistient subset of the genome, used for high resoltuion population genomics | Cheaper than WGS| | |
 | Poolseq | Next generation sequencing (Illumina short read) | grouping of individuals into pools before sequencing | | | |
