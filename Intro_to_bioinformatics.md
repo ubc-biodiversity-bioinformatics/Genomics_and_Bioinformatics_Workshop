@@ -7,6 +7,7 @@
       <a href="#intro-to-bioinformatics">Intro to bioinformatics</a>
       <ul>
         <li><a href="#sequencing-types">Sequencing types</a></li>
+        <li><a href="#General-bioinformatics-workflow-chart">General Bioinformatics Workflow Chart</a></li>
       </ul>
     </li>
     <li><a href="#references">References</a></li>
@@ -33,6 +34,12 @@ Link to google drive \
 | -m | memory available (MB) | 128000 |
 | -g | FALSE to run for AT DNAwalk or TRUE to run for CG DNAwalk | FALSE |
 
+<!-- General Bioinformatics Workflow Chart -->
+## General Bioinformatics Workflow Chart
+
+Example plot
+![Plotting a specific DNAwalk][product-DNAwalk]
+
 <p align="right">(<a href="#getting-started">back to top</a>)</p>
 
 <!-- References -->
@@ -49,3 +56,8 @@ Cassandra Elphinstone - cassandra (dot) elphinstone (at) gmail (dot) com \
 Or post here: https://github.com/celphin/RepeatOBserverV1/discussions
 
 <p align="right">(<a href="#getting-started">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[product-DNAwalk]: images/DNAwalk.png
+
