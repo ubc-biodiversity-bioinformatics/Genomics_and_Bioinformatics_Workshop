@@ -53,7 +53,7 @@ Elphinstone, C., Elphinstone, R., Todesco, M., & Rieseberg, L. (2023). RepeatOBs
 If you have questions, suggestions or comments please contact:
 
 Cassandra Elphinstone - cassandra (dot) elphinstone (at) gmail (dot) com \
-Or post here: https://github.com/celphin/RepeatOBserverV1/discussions
+Or post here: https://github.com/ubc-biodiversity-bioinformatics/Genomics_and_Bioinformatics_Workshop/discussions/1
 
 <p align="right">(<a href="#getting-started">back to top</a>)</p>
 
