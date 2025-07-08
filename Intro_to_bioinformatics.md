@@ -19,7 +19,7 @@
 ## Intro to bioinformatics
 Learning Objectives:\
 By the end of this workshop you should be able to:
-- describe the different types of sequnecing that exist \
+- Describe the different types of sequnecing that exist \
 - Explain the pros and cons of these types of sequencing \
 - Understand what would be the best types of sequencing for a given project objective \
 
@@ -28,14 +28,14 @@ Link to slides: https://docs.google.com/presentation/d/1pkogGauGPGoacsThDY8cLQAx
 <!-- Sequencing types -->
 ## Sequencing types
 
-|Sequencing type | Usage | Case study reference| 
-|----------| ------| -------------|
-| Sanger sequencing | Species Name | Fagopyrum (cannot contain an _ or space)|
-| -f | Reference genome fasta file| Fagopyrum_Main.fasta|
-| -h| Haplotype (string) | H0 (cannot contain an _ or space)| 
-| -c | cpus available (any integer value) | 20 |
-| -m | memory available (MB) | 128000 |
-| -g | FALSE to run for AT DNAwalk or TRUE to run for CG DNAwalk | FALSE |
+|Sequencing type | Pros  | Cons | Case study reference| 
+|----------|----------|----------|-------------|
+| Sanger sequencing (1st generation) | can target specific genes | | |
+| Next generation sequencing (Illumina short read) | | | |
+| Long read sequnecing (3rd generation) (Nanopore)  |  | | | 
+| Long read sequnecing (PacBio HiFi) |  |  | |
+|  |  | | |
+|  |  |  | |
 
 <!-- General Bioinformatics Workflow Chart -->
 ## General Bioinformatics Workflow Chart
