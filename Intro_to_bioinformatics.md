@@ -17,17 +17,20 @@
 
 <!-- Intro to bioinformatics -->
 ## Intro to bioinformatics
-Learning Objectives
+Learning Objectives:\
+By the end of this workshop you should be able to:
+- describe the different types of sequnecing that exist \
+- Explain the pros and cons of these types of sequencing \
+- Understand what would be the best types of sequencing for a given project objective \
 
-Link to slides \
-Link to google drive \
+Link to slides: https://docs.google.com/presentation/d/1pkogGauGPGoacsThDY8cLQAxlyZ_pBqjZNjdsnEsbio/edit?usp=sharing \
 
 <!-- Sequencing types -->
 ## Sequencing types
 
 |Sequencing type | Usage | Case study reference| 
 |----------| ------| -------------|
-| -i | Species Name | Fagopyrum (cannot contain an _ or space)|
+| Sanger sequencing | Species Name | Fagopyrum (cannot contain an _ or space)|
 | -f | Reference genome fasta file| Fagopyrum_Main.fasta|
 | -h| Haplotype (string) | H0 (cannot contain an _ or space)| 
 | -c | cpus available (any integer value) | 20 |
@@ -44,14 +47,14 @@ Example plot
 
 <!-- References -->
 ## References
-Pre-print:
-Elphinstone, C., Elphinstone, R., Todesco, M., & Rieseberg, L. (2023). RepeatOBserver: Tandem repeat visualization and centromere detection (p. 2023.12.30.573697). bioRxiv. https://doi.org/10.1101/2023.12.30.573697
+Add references here
 
 <!-- CONTACT AND QUESTIONS-->
 ## Contact and Questions
 
 If you have questions, suggestions or comments please contact:
 
+Add emails:
 Cassandra Elphinstone - cassandra (dot) elphinstone (at) gmail (dot) com \
 Or post here: https://github.com/ubc-biodiversity-bioinformatics/Genomics_and_Bioinformatics_Workshop/discussions/1
 
