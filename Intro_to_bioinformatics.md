@@ -37,6 +37,7 @@ Add guidelines here for workshop
 |Sequencing name | Type | Usage | Pros | Cons | Case study reference| 
 |----------------|------|-------|------|------|---------------------|
 | Sanger sequencing (1st generation)|  | can target specific genes | | | | 
+| DNA Barcoding | PCR or  Next generation sequencing (Illumina short read) | identify species in a sample of mixed species | | | | 
 | Whole genome sequencing (WGS) | Next generation sequencing (Illumina short read) | sequencing of the whole genome with short reads| | | |
 | Reduced representation sequencing (GBS or RADseq) | Next generation sequencing (Illumina short read) | sequencing a random but consistient subset of the genome | Cheaper than WGS| | |
 | Poolseq | Next generation sequencing (Illumina short read) | grouping of individuals into pools before sequencing | | | |
