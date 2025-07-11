@@ -40,16 +40,16 @@ Add guidelines here for workshop
 
 |Sequencing name | Type | Usage | Pros | Cons | Reference| 
 |----------------|------|-------|------|------|---------------------|
-| Sanger sequencing (1st generation)|  | can target specific genes | | | | 
-| DNA Barcoding | PCR or  Next generation sequencing (Illumina short read) | identify species in a sample of mixed species based on a previously compiled database of barcodes| | | | 
-| Microsatellites or ribosomal, plastid or mitochondial markers (rbcL, matK, ITS, trnH-psbA, and ycf1) | PCR?  | identify species in a sample of mixed species or low resolution population comparisons | | | | 
-| Whole genome sequencing (WGS) | Next generation sequencing (Illumina short read) | sequencing of the whole genome with short reads | better coverage of the genome | | |
-| Reduced representation sequencing (GBS or RADseq) | Next generation sequencing (Illumina short read) | sequencing a random but consistient subset of the genome, used for high resolution population genomics | Cheaper than WGS| | |
-| Poolseq | Next generation sequencing (Illumina short read) | grouping of individuals into pools before sequencing | Cost effective + ideal for many individuals + better estimation of allele frequency in the same pool | Information loss on single individuals | |
-| Oxford Nanopore (ONT)| Long read sequencing (3rd generation)  | Chromosome level genome assemblies | Cheaper than HiFi, Long reads allow for better assemblies | Higher error rate than HiFi and Illumina | Ref | 
-| PacBio HiFi| Long read sequencing (3rd generation) | Chromosome level genome assemblies  | Generate accurate, contiguous, and complete genomic information, produce reads up to 20,000bp. Allow accurate assembly of complex regions and repetitive sequences | High cost | |
+| Sanger sequencing (1st generation)|  | Can target specific genes | | | | 
+| DNA Barcoding | PCR or  Next generation sequencing (Illumina short read) | Identify species in a sample of mixed species based on a previously compiled database of barcodes| | | | 
+| Microsatellites or ribosomal, plastid or mitochondial markers (rbcL, matK, ITS, trnH-psbA, and ycf1) | PCR?  | Identify species in a sample of mixed species or low resolution population comparisons | | | | 
+| Whole genome sequencing (WGS) | Next generation sequencing (Illumina short read) | Sequencing of the whole genome with short reads | better coverage of the genome | | |
+| Reduced representation sequencing (GBS or RADseq) | Next generation sequencing (Illumina short read) | Sequencing a random but consistient subset of the genome, used for high resolution population genomics | Cheaper than WGS| | |
+| Poolseq | Next generation sequencing (Illumina short read) | Grouping of individuals into pools before sequencing | Cost effective + ideal for many individuals + better estimation of allele frequency in the same pool | Information loss on single individuals | |
+| Oxford Nanopore (ONT)| Long read sequencing (3rd generation)  | Chromosome level genome assemblies | Cheaper than HiFi, Long reads allow for better assemblies | Higher error rate than HiFi and Illumina | | 
+| PacBio HiFi| Long read sequencing (3rd generation) | Chromosome level genome assemblies  | Generate accurate contiguous and complete genomic information up to 20,000bp. Allow accurate assembly of complex regions and repetitive sequences | High cost | |
 | Methylseq or WGBS | Next generation sequencing (Illumina short read) | Methylation sequencing | Identify methylated cytosines to reveal genome wide methylation patterns | High cost + Need significant amounts of high-quality DNA + DNA degradation during the bisulfite conversion process | |
-| HiC | Next generation sequencing (Illumina short read) | 3D DNA structure to aid in genome assemblies | Reveal 3D organization of the genome and interactions between distant genomic regions | High cost & Technical difficulties | | 
+| HiC | Next generation sequencing (Illumina short read) | 3D DNA structure to aid in genome assemblies | Reveal 3D organization of the genome and interactions between distant genomic regions | High cost + Technical difficulties | | 
 
 <!-- General Bioinformatics Workflow Chart -->
 ## General Bioinformatics Workflow Chart
