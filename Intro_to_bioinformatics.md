@@ -38,7 +38,7 @@ Add guidelines here for workshop
 <!-- Sequencing types -->
 ## Sequencing types
 
-|Sequencing name | Type | Usage | Pros | Cons | Case study reference| 
+|Sequencing name | Type | Usage | Pros | Cons | Reference| 
 |----------------|------|-------|------|------|---------------------|
 | Sanger sequencing (1st generation)|  | can target specific genes | | | | 
 | DNA Barcoding | PCR or  Next generation sequencing (Illumina short read) | identify species in a sample of mixed species based on a previously compiled database of barcodes| | | | 
