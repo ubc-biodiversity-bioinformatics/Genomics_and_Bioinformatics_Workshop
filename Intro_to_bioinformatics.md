@@ -19,7 +19,7 @@
 <!-- Intro to bioinformatics -->
 ## Intro to bioinformatics
 
-### Bioinformatics is an interdisciplinary field that develops and uses computational tools to collect, analyze, and interpret biological data—especially large-scale data like DNA, RNA, and protein sequences.
+Bioinformatics is an interdisciplinary field that develops and uses computational tools to collect, analyze, and interpret biological data—especially large-scale data like DNA, RNA, and protein sequences.
 
 
 ### Learning Objectives:
