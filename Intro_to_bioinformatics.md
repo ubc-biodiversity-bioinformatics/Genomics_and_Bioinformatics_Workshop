@@ -38,7 +38,7 @@ Add guidelines here for workshop
 <!-- Sequencing types -->
 ## Sequencing types
 
-|Sequencing name | Type | Usage | Pros | Cons | Reference| 
+|Sequencing name | Sequencing instrument | Usage | Pros | Cons | Reference| 
 |----------------|------|-------|------|------|---------------------|
 | Sanger sequencing (1st generation)|  | checking variants when designing markers or cloning plasmid confirmation  | Accurate for small scale projects | Time consuming and expensive for looking at more than a few markers | [XX *et al.* XX](URL)| 
 | Microsatellites or ribosomal, plastid or mitochondial markers (rbcL, matK, ITS, trnH-psbA, and ycf1) | PCR?  | Low resolution population comparisons | | | [Eidesen *et al.* 2007](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-294X.2007.03425.x)| 
