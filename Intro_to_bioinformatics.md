@@ -32,8 +32,14 @@ Link to slides: https://docs.google.com/presentation/d/1pkogGauGPGoacsThDY8cLQAx
 
 <!-- Community guidelines -->
 ## Community guidelines
-Add guidelines here for workshop
-
+- Be respectful, supportive and kind to yourself and others
+- Create a safe and supportive space to make mistakes & learn​
+- Acknowledge diversity and appreciate others
+- Treat others with empathy — assume positive intent
+- Critique ideas, not people
+- Use inclusive language e.g., respect pronouns
+- Value the time you have with one another
+- Do your best to be present and actively participate​
 
 <!-- Sequencing types -->
 ## Sequencing types
