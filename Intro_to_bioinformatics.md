@@ -41,6 +41,10 @@ Link to slides: https://docs.google.com/presentation/d/1pkogGauGPGoacsThDY8cLQAx
 - Value the time you have with one another
 - Do your best to be present and actively participate​
 
+<!-- Instrument types -->
+## Instrument types
+
+
 <!-- Sequencing types -->
 ## Sequencing types
 
