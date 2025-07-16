@@ -50,6 +50,7 @@ Add guidelines here for workshop
 | Oxford Nanopore (ONT)| Long read sequencing (3rd generation)  | Chromosome level genome assemblies | Cheaper than HiFi, Long reads allow for better assemblies | Higher error rate than HiFi and Illumina | | 
 | Methylseq or WGBS | Next generation sequencing (Illumina short read) | Methylation sequencing | Identify methylated cytosines to reveal genome wide methylation patterns | High cost + Need significant amounts of high-quality DNA + DNA degradation during the bisulfite conversion process | |
 | HiC | Next generation sequencing (Illumina short read) | 3D DNA structure to aid in genome assemblies | Reveal 3D organization of the genome and interactions between distant genomic regions | High cost + Technical difficulties | [Hirabayashi *et al.* 2025](https://www.mdpi.com/2223-7747/14/1/124) | 
+|(ChIP-seq) chromatin immunoprecipitation sequencing | Next generation sequencing (Illumina short read) | identifies sequences that specific proteins bind to | Can identify centromeres and other protein DNA interactions | Expensive and difficult to run | [Han *et al.* 2021](https://www.sciencedirect.com/science/article/abs/pii/S1046202320302012) | 
 
 <!-- General Bioinformatics Workflow Chart -->
 ## General Bioinformatics Workflow Chart
