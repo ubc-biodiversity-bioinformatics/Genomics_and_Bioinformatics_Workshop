@@ -51,7 +51,7 @@ Add guidelines here for workshop
 | Methylseq or WGBS | Next generation sequencing (Illumina short read) | Methylation sequencing | Identify methylated cytosines to reveal genome wide methylation patterns | High cost + Need significant amounts of high-quality DNA + DNA degradation during the bisulfite conversion process | |
 | HiC | Next generation sequencing (Illumina short read) | 3D DNA structure to aid in genome assemblies | Reveal 3D organization of the genome and interactions between distant genomic regions | High cost + Technical difficulties | [Hirabayashi *et al.* 2025](https://www.mdpi.com/2223-7747/14/1/124) | 
 |(ChIP-seq) chromatin immunoprecipitation sequencing | Next generation sequencing (Illumina short read) | identifies sequences that specific proteins bind to | Can identify centromeres and other protein DNA interactions | Expensive and difficult to run | [Han *et al.* 2021](https://www.sciencedirect.com/science/article/abs/pii/S1046202320302012) | 
-|(ATAC-seq) Assay for Transposase-Accessible Chromatin | Type | Map chromatin accessiblity to see which regions of the genome are open and likely active for gene activity | Pros | Cons | Reference| 
+|(ATAC-seq) Assay for Transposase-Accessible Chromatin | Next generation sequencing (Illumina short read) | Map chromatin accessiblity to see which regions of the genome are open and likely active for gene activity | Pros | Cons | Reference| 
 |RNA seq | Type | Look at gene expression and aid in annotation | Pros | Cons | Reference| 
 
 <!-- General Bioinformatics Workflow Chart -->
