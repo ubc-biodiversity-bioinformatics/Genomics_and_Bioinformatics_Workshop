@@ -59,7 +59,7 @@ Link to slides: https://docs.google.com/presentation/d/1pkogGauGPGoacsThDY8cLQAx
 | Long read sequencing | PacBio HiFi (3rd generation) | Chromosome level genome assemblies  | Generate accurate contiguous and complete genomic information up to 20,000bp. Allow accurate assembly of complex regions and repetitive sequences | High cost | [Hirabayashi *et al.* 2025](https://www.mdpi.com/2223-7747/14/1/124) |
 | Long read sequencing |  Oxford Nanopore (ONT) (3rd generation)  | Chromosome level genome assemblies | Cheaper than HiFi, Long reads allow for better assemblies, can detect methylation | Higher error rate than HiFi and Illumina | | 
 | Methylseq or WGBS | Next generation sequencing (Illumina short read) | Methylation sequencing | Identify methylated cytosines to reveal genome wide methylation patterns | High cost + Need significant amounts of high-quality DNA + DNA degradation during the bisulfite conversion process | |
-| HiC | Next generation sequencing (Illumina short read) | 3D DNA structure to aid in genome assemblies | Reveal 3D organization of the genome and interactions between distant genomic regions | High cost + Technical difficulties | [Hirabayashi *et al.* 2025](https://www.mdpi.com/2223-7747/14/1/124) | 
+| HiC | Next generation sequencing (Illumina short read) | 3D DNA structure to aid in genome assemblies | Reveal 3D organization of the genome and interactions between distant genomic regions | High cost + Technical difficulties | [Xu *et al.* 2024](https://www.sciencedirect.com/science/article/pii/S221138352300494X) | 
 |(ChIP-seq) chromatin immunoprecipitation sequencing | Next generation sequencing (Illumina short read) | identifies sequences that specific proteins bind to | Can identify centromeres and other protein DNA interactions | Expensive and difficult to run | [Han *et al.* 2021](https://www.sciencedirect.com/science/article/abs/pii/S1046202320302012) | 
 |(ATAC-seq) Assay for Transposase-Accessible Chromatin | Next generation sequencing (Illumina short read) | Map chromatin accessiblity to see which regions of the genome are open and likely active for gene activity | Pros | Cons | Reference| 
 |RNA seq | Type | Look at gene expression and aid in annotation | Pros | Cons | Reference| 
@@ -89,5 +89,5 @@ Or post here: https://github.com/ubc-biodiversity-bioinformatics/Genomics_and_Bi
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-DNAwalk]: images/DNAwalk.png
+
 
