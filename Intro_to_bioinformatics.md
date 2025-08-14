@@ -81,10 +81,12 @@ Add references here
 If you have questions, suggestions or comments please contact:
 
 Add emails:
-Cassandra Elphinstone - cassandra (dot) elphinstone (at) gmail (dot) com \
-Cassandra Elphinstone - cassandra (dot) elphinstone (at) gmail (dot) com \
 
-Or post your question or comments here: [Our Forum](https://github.com/ubc-biodiversity-bioinformatics/Genomics_and_Bioinformatics_Workshop/discussions/)
+
+Cassandra Elphinstone - cassandra (dot) elphinstone (at) gmail (dot) com \
+Yue Yu - yue (dot) yu (at) ubc (dot) ca \
+
+Or post your question or comments here: [Our Forum](https://github.com/ubc-biodiversity-bioinformatics/Genomics_and_Bioinformatics_Workshop/discussions/1)
 
 <p align="right">(<a href="#getting-started">back to top</a>)</p>
 
