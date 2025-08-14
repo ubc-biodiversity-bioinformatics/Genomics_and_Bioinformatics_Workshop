@@ -84,7 +84,7 @@ Add emails:
 
 
 Cassandra Elphinstone - cassandra (dot) elphinstone (at) gmail (dot) com \
-Yue Yu - yue (dot) yu (at) ubc (dot) ca \
+Yue Yu - yue (dot) yu (at) ubc (dot) ca
 
 Or post your question or comments here: [Our Forum](https://github.com/ubc-biodiversity-bioinformatics/Genomics_and_Bioinformatics_Workshop/discussions/1)
 
