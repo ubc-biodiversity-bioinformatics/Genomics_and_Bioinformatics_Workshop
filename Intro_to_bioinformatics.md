@@ -66,9 +66,8 @@ Link to slides: https://docs.google.com/presentation/d/1pkogGauGPGoacsThDY8cLQAx
 
 <!-- General Bioinformatics Workflow Chart -->
 ## General Bioinformatics Workflow Chart
+Add plot here
 
-Example plot
-![Plotting a specific DNAwalk][product-DNAwalk]
 
 <p align="right">(<a href="#getting-started">back to top</a>)</p>
 
@@ -83,7 +82,9 @@ If you have questions, suggestions or comments please contact:
 
 Add emails:
 Cassandra Elphinstone - cassandra (dot) elphinstone (at) gmail (dot) com \
-Or post here: https://github.com/ubc-biodiversity-bioinformatics/Genomics_and_Bioinformatics_Workshop/discussions/1
+Cassandra Elphinstone - cassandra (dot) elphinstone (at) gmail (dot) com \
+
+Or post your question or comments here: [Our Forum](https://github.com/ubc-biodiversity-bioinformatics/Genomics_and_Bioinformatics_Workshop/discussions/)
 
 <p align="right">(<a href="#getting-started">back to top</a>)</p>
 
