@@ -17,7 +17,7 @@
 </details>
 
 <!-- Introduction to Bioinformatics -->
-## Intro to bioinformatics
+## Introduction to Bioinformatics
 
 Bioinformatics is an interdisciplinary field that develops and uses computational tools to collect, analyze, and interpret biological data—especially large-scale data like DNA, RNA, and protein sequences.
 
@@ -31,7 +31,7 @@ By the end of this workshop you should be able to:
 Link to slides: https://docs.google.com/presentation/d/1pkogGauGPGoacsThDY8cLQAxlyZ_pBqjZNjdsnEsbio/edit?usp=sharing 
 
 <!-- Community Guidelines -->
-## Community guidelines
+## Community Guidelines
 - Be respectful, supportive and kind to yourself and others
 - Create a safe and supportive space to make mistakes & learn​
 - Acknowledge diversity and appreciate others
@@ -43,7 +43,7 @@ Link to slides: https://docs.google.com/presentation/d/1pkogGauGPGoacsThDY8cLQAx
 
 
 <!-- Sequencing Types -->
-## Sequencing types
+## Sequencing Types
 
 
 | Sequencing Approach | Sequencing Type | Usage | Pros | Cons | Reference |
