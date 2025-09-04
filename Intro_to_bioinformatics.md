@@ -112,7 +112,7 @@ Han, Y., Gao, S., Muegge, K., Zhang, W., & Zhou, B. (2021). Advanced application
 
 Wang, Z., Gerstein, M., & Snyder, M. (2009). RNA-Seq: A revolutionary tool for transcriptomics. Nature Reviews Genetics, 10(1), 57–63. https://doi.org/10.1038/nrg2484
 
-Hirabayashi, T., Tanaka, Y., & Nakamura, K. (2025). High-fidelity long-read sequencing for plant genome assemblies. Plants, 14(1), 124. https://doi.org/10.3390/plants14010124
+Hirabayashi, K.; Dumigan, C.R., Kučka, M., Percy, D.M., Guerriero, G., Cronk, Q., Deyholos, M.K. & Todesco, M. (2025). A High-Quality Phased Genome Assembly of Stinging Nettle (Urtica dioica ssp. dioica). Plants, 14(1), 124. https://doi.org/10.3390/plants14010124
 
 Xu, X., Li, W., Li, T., & Xu, J. (2024). Hi-C applications in genome assembly and 3D genome organization studies. Cell Genomics, 4(2), 100322. https://doi.org/10.1016/j.celrep.2023.100494
 
