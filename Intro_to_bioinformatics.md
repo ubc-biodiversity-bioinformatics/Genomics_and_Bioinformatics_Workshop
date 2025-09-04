@@ -8,6 +8,7 @@
       <ul>
         <li><a href="#community-guidelines">Community guidelines</a></li>
         <li><a href="#sequencing-types">Sequencing types</a></li>
+        <li><a href="#sequencing generations">Sequencing generations</a></li>
         <li><a href="#General-bioinformatics-workflow-chart">General Bioinformatics Workflow Chart</a></li>
       </ul>
     </li>
@@ -40,6 +41,23 @@ Link to slides: https://docs.google.com/presentation/d/1pkogGauGPGoacsThDY8cLQAx
 - Use inclusive language e.g., respect pronouns
 - Value the time you have with one another
 - Do your best to be present and actively participate​
+
+
+
+
+<!-- Sequencing Generations -->
+## Sequencing Generations
+
+
+| Feature            | First-Generation Sequencing (Sanger) | Next-Generation Sequencing (NGS) | Third-Generation Sequencing (TGS) |
+|--------------------|--------------------------------------|----------------------------------|-----------------------------------|
+| **Principle**      | Chain termination method             | Massively parallel sequencing of millions of fragments | Direct, real-time sequencing of single, unamplified DNA molecules |
+| **Read Length**    | 500–1000 bp                         | 50–500 bp                        | Tens to hundreds of kb |
+| **Throughput**     | Low                                 | Very high                        | Moderate to high |
+| **Key Feature**    | Sequences one DNA fragment at a time | Requires DNA amplification (e.g., PCR) | No DNA amplification needed |
+| **Main Advantage** | —                                   | High throughput, lower cost per base than first-generation | Long reads, easier genome assembly, real-time data, can detect modifications |
+| **Main Drawback**  | High cost, low throughput, one sequence per lane/capillary | — | Historically higher error rates (improving over time) |
+
 
 
 <!-- Sequencing Types -->
