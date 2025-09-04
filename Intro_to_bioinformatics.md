@@ -7,8 +7,8 @@
       <a href="#intro-to-bioinformatics">Intro to bioinformatics</a>
       <ul>
         <li><a href="#community-guidelines">Community guidelines</a></li>
-        <li><a href="#sequencing-types">Sequencing types</a></li>
         <li><a href="#sequencing generations">Sequencing generations</a></li>
+        <li><a href="#sequencing-types">Sequencing types</a></li>
         <li><a href="#General-bioinformatics-workflow-chart">General Bioinformatics Workflow Chart</a></li>
       </ul>
     </li>
