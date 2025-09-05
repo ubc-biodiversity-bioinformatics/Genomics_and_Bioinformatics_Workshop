@@ -87,7 +87,7 @@ Link to slides: https://docs.google.com/presentation/d/1pkogGauGPGoacsThDY8cLQAx
 ![Image from a website on tutorials](https://gwu-libraries.github.io/metagenomics-analysis/fig/03-01-01.png )
 
 
-This is from a ["Data Processing and Visualization for Metagenomics"](https://gwu-libraries.github.io/metagenomics-analysis/aio/index.html$0) page.
+This is from the ["Data Processing and Visualization for Metagenomics"](https://gwu-libraries.github.io/metagenomics-analysis/aio/index.html$0) page.
 
 
 
