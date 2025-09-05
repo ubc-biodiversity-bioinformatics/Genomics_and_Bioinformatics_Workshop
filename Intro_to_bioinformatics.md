@@ -55,9 +55,8 @@ Link to workshop slides: https://docs.google.com/presentation/d/1pkogGauGPGoacsT
 | **Read Length**    | 500–1000 bp                         | 50–500 bp                        | Tens to hundreds of kb |
 | **Throughput**     | Low                                 | Very high                        | Moderate to high |
 | **Key Feature**    | Sequences one DNA fragment at a time | Requires DNA amplification (e.g., PCR) | No DNA amplification needed |
-| **Main Advantage** | —                                   | High throughput, lower cost per base than first-generation | Long reads, easier genome assembly, real-time data, can detect modifications |
-| **Main Drawback**  | High cost, low throughput, one sequence per lane/capillary | — | Historically higher error rates (improving over time) |
-
+| **Main Advantage** | High accuracy                                   | High throughput, lower cost per base than first-generation | Long reads, easier genome assembly, real-time data, can detect modifications |
+| **Main Drawback**  | High cost, low throughput, one sequence per lane/capillary | Mapping error in repetitive region | Higher error rates (improving over time) |
 
 
 <!-- Sequencing Types -->
