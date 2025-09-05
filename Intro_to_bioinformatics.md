@@ -68,7 +68,7 @@ Link to slides: https://docs.google.com/presentation/d/1pkogGauGPGoacsThDY8cLQAx
 |----------------------|-----------------|-------|------|------|-----------|
 | Sanger sequencing | 1st generation sequencing | checking variants when designing markers or cloning plasmid confirmation | Gold standard accuracy, long read length (~700–1000 bp) | Time consuming, low throughput, expensive per base, low coverage | [Sanger *et al.* 1977](https://doi.org/10.1038/265687a0) |
 | Microsatellites | PCR-based genotyping (pre-NGS) | Low resolution population comparisons | Inexpensive, codominant markers, informative for diversity studies | Limited number of loci, low reproducibility across labs, lower resolution than SNPs | [Eidesen *et al.* 2007](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-294X.2007.03425.x) |
-| DNA metabarcoding | Next generation sequencing (NGS; Illumina short reads) | Identify species in a sample of mixed species based on a previously compiled database of barcodes | Process samples with mixed species | Information lost regarding the exact species or individual the sequences are from. Eg. Abundance and biomass | [Saarela *et al.* 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC3865322/) & [Parisy *et al.* 2023](https://mbmg.pensoft.net/article/99979/)  |
+| DNA metabarcoding | Next generation sequencing (NGS; Illumina short reads) | Identify species in a sample of mixed species based on a previously compiled database of barcodes | Process samples with mixed species | Information lost regarding the exact species or individual the sequences are from. Eg. Abundance and biomass | [Zhang *et al.* 2023]( https://pmc.ncbi.nlm.nih.gov/articles/PMC3865322/](https://doi.org/10.1016/j.jenvman.2023.117971)  |
 | Whole genome sequencing (WGS) | Next generation sequencing | Sequencing of the whole genome with short reads | Higher coverage of the genome, enables genome-wide association, population genomics, evolutionary studies | Expensive for large genomes, requires high-quality DNA, complex assembly for repetitive regions | [Hübner *et al.* 2018]( https://www.nature.com/articles/s41477-018-0329-0) & [Bemmels *et al.* 2025](https://www.cell.com/current-biology/abstract/S0960-9822(24)01693-2) |
 | Reduced representation sequencing (GBS or RADseq) | Next generation sequencing | Sequencing a random but consistent subset of the genome, used for high resolution population genomics | Cheaper than WGS, scalable for many individuals | Biased representation of genome, missing data, challenges in cross-study comparability | [Elphinstone *et al.* 2024](https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.14961)  |
 | Poolseq | Next generation sequencing | Grouping of individuals into pools before sequencing | Cost effective, ideal for many individuals, better estimation of allele frequency in the same pool | Information lost for single individuals, biased by uneven DNA contributions | [Zhang *et al.* 2022](https://www.sciencedirect.com/science/article/abs/pii/S0044848622000370) |
@@ -90,34 +90,7 @@ Add plot here
 
 <!-- References -->
 ## References
-Sanger, F., Nicklen, S., & Coulson, A. R. (1977). DNA sequencing with chain-terminating inhibitors. Proceedings of the National Academy of Sciences, 74(12), 5463–5467. https://doi.org/10.1038/265687a0
-
-Eidesen, P. B., Alsos, I. G., Popp, M., Stensrud, Ø., Suda, J., & Brochmann, C. (2007). Nuclear versus plastid data: Complex Pleistocene history of a circumpolar key species. Molecular Ecology, 16(18), 3902–3925. https://doi.org/10.1111/j.1365-294X.2007.03425.x
-
-Saarela, J. M., Sokoloff, P. C., Gillespie, L. J., Consaul, L. L., & Bull, R. D. (2013). DNA barcoding the Canadian Arctic flora: Core plastid barcodes (rbcL + matK) for 490 vascular plant species. PLoS ONE, 8(10), e77982. https://pmc.ncbi.nlm.nih.gov/articles/PMC3865322/
-
-Parisy, V., Mason, C., & Deiner, K. (2023). Unlocking the power of DNA metabarcoding: Current progress and future perspectives for biodiversity monitoring. Metabarcoding and Metagenomics, 7, e99979. https://mbmg.pensoft.net/article/99979/
-
-Hübner, S., Bercovich, N., Todesco, M., Mandel, J. R., Odenheimer, J., Ziegler, E., … Rieseberg, L. H. (2018). Sunflower pan-genome analysis shows that hybridization altered gene content and disease resistance. Nature Plants, 4(9), 1–11. https://doi.org/10.1038/s41477-018-0329-0
-
-Bemmels, J. B., et al. (2025). [Title pending final issue assignment]. Current Biology. https://doi.org/10.1016/j.cub.2024.12.019
-
-Elphinstone, A. N., Thornhill, A. H., Crisp, M. D., & Laffan, S. W. (2024). Genomic data illuminate biogeographic history in Australian plant lineages. Journal of Biogeography, 51(1), 67–81. https://doi.org/10.1111/jbi.14961
-
-Zhang, Y., Li, Y., Chen, Y., & Wang, J. (2022). Pool-seq: A cost-effective population genomics method for aquatic species. Aquaculture, 551, 737965. https://doi.org/10.1016/j.aquaculture.2022.737965
-
-Lister, R., Pelizzola, M., Dowen, R. H., Hawkins, R. D., Hon, G., Tonti-Filippini, J., … Ecker, J. R. (2009). Human DNA methylomes at base resolution show widespread epigenomic differences. Nature, 462(7271), 315–322. https://doi.org/10.1038/nature08514
-
-Han, Y., Gao, S., Muegge, K., Zhang, W., & Zhou, B. (2021). Advanced applications of ChIP-seq in epigenomic profiling. Genomics, 113(1), 1–12. https://doi.org/10.1016/j.ygeno.2020.11.003
-
-Wang, Z., Gerstein, M., & Snyder, M. (2009). RNA-Seq: A revolutionary tool for transcriptomics. Nature Reviews Genetics, 10(1), 57–63. https://doi.org/10.1038/nrg2484
-
-Hirabayashi, K.; Dumigan, C.R., Kučka, M., Percy, D.M., Guerriero, G., Cronk, Q., Deyholos, M.K. & Todesco, M. (2025). A High-Quality Phased Genome Assembly of Stinging Nettle (Urtica dioica ssp. dioica). Plants, 14(1), 124. https://doi.org/10.3390/plants14010124
-
-Xu, X., Li, W., Li, T., & Xu, J. (2024). Hi-C applications in genome assembly and 3D genome organization studies. Cell Genomics, 4(2), 100322. https://doi.org/10.1016/j.celrep.2023.100494
-
-Jain, M., Koren, S., Miga, K. H., Quick, J., Rand, A. C., Sasani, T. A., … Loose, M. (2018). Nanopore sequencing and assembly of a human genome with ultra-long reads. Nature Biotechnology, 36(4), 338–345. https://doi.org/10.1038/nbt.4060
-
+UNDER EDITS
 
 <!-- CONTACT AND QUESTIONS-->
 ## Contact and Questions
