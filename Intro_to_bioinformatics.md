@@ -126,8 +126,6 @@ Jain, M., Koren, S., Miga, K. H., Quick, J., Rand, A. C., Sasani, T. A., Tyson, 
 
 If you have questions, suggestions or comments please contact:
 
-Add emails:
-
 Cassandra Elphinstone - cassandra (dot) elphinstone (at) gmail (dot) com \
 Yue Yu - yue (dot) yu (at) ubc (dot) ca
 
