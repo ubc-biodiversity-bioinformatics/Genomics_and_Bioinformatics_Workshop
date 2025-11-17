@@ -17,6 +17,25 @@
   </ol>
 </details>
 
+
+## Slides, Case Studies & Recordings for Self-Paced Learners
+
+Link to workshop slides: https://docs.google.com/presentation/d/12ZUQwGodflfUMNegxAxUklhZZ8erkezhquZP8_d0qZ8/edit?usp=sharing
+
+
+Link to case studies: https://docs.google.com/document/d/16PxJ3ZFpVD7mBbCpIjTPJAoxyBa_hgxV6-EfCtU-14o/edit?usp=sharing
+
+
+Link to case studies (ANSWER SHEET): https://docs.google.com/document/d/1zSIetLRkT8vJA7ZHbJUTrL_vt7G8RAk-gRfoYoWsf1E/edit?usp=share_link
+
+
+Recording (1/2) on workshop slides: https://ubc.zoom.us/rec/share/qFHCsh0Mc1mhx9mg5mKASM2YYl0Q9kIbMZOfNLnMk3mdfJCPR9oH0Mss3Wjd1YEW.BetUXRj85wK2UQ7l (Passcode: 2+3FE6ng)
+
+
+Recording (2/2) on case study answer sheet: https://ubc.zoom.us/rec/share/tXn9FICLOc2UGpFPAVIRWcBEgpBYAUXGGgBXTF1ikrnNzlIT8S6KaQbZHYzqA64.79ATD4A9_oOqDufS (Passcode: 54Ku?d@W)
+
+
+
 <!-- Introduction to Bioinformatics -->
 ## Introduction to Bioinformatics
 
@@ -29,7 +48,7 @@ By the end of this workshop you should be able to:
 - Explain the pros and cons of these types of sequencing 
 - Understand what would be the best types of sequencing for a given project objective 
 
-Link to workshop slides: https://docs.google.com/presentation/d/1izCxKktOjTkp3_jvxI1IOFLovdJeAR1fN1bG9Ch6Ugk/edit?usp=sharing
+
 
 <!-- Community Guidelines -->
 ## Community Guidelines
